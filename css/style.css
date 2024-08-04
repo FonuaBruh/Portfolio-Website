@@ -324,4 +324,8 @@ footer {
   .right-side {
     width: 100%;
   }
+
+  .footer-container {
+    flex-direction: column-reverse;
+  }
 }
